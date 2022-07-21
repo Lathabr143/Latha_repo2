@@ -6,4 +6,4 @@ Then
 Else
        Statement2
 fi
-
+output
