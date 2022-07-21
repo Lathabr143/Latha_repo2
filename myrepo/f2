@@ -1,0 +1,11 @@
+If else if
+If [condition]
+Then
+       Statement1
+elif
+       Statement2; then
+else
+      Statement 3
+fi
+
+

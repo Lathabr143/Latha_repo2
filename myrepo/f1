@@ -1,0 +1,9 @@
+If else :If condition is true then it will execute the statement1 otherwise it will move to the next statement2
+
+If [condition]
+Then
+       Statement1
+Else
+       Statement2
+fi
+
